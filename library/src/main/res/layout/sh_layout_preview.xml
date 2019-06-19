@@ -46,7 +46,7 @@
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingTop="5dp"
-        android:text="查看原图"
+        android:text="@string/check_org"
         android:textColor="#ffffff"
         />
   </FrameLayout>
