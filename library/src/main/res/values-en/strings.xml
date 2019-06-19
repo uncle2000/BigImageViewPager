@@ -1,5 +1,5 @@
 <resources>
   <string name="app_name">library</string>
   <string name="indicator">%1$s/%2$s</string>
-  <string name="check_org">查看原圖</string>
+  <string name="check_org">View Original Image</string>
 </resources>
